@@ -3,8 +3,8 @@ const port = 8000;
 const data = {
     Name:'Pitambar',
     LastName:'Bhadra',
-    Age:22,
-    city:'Pune'
+    Age:26,
+    city:'Kolkata'
 }
 const jsonData = JSON.stringify(data);
 
